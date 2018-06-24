@@ -1,0 +1,7 @@
+C:\Repos\Developer Challenge - Reverse A Stack\bin\Debug\Developer Challenge - Reverse A Stack.exe.config
+C:\Repos\Developer Challenge - Reverse A Stack\bin\Debug\Developer Challenge - Reverse A Stack.exe
+C:\Repos\Developer Challenge - Reverse A Stack\bin\Debug\Developer Challenge - Reverse A Stack.pdb
+C:\Repos\Developer Challenge - Reverse A Stack\obj\Debug\Developer Challenge - Reverse A Stack.csprojResolveAssemblyReference.cache
+C:\Repos\Developer Challenge - Reverse A Stack\obj\Debug\Developer Challenge - Reverse A Stack.csproj.CoreCompileInputs.cache
+C:\Repos\Developer Challenge - Reverse A Stack\obj\Debug\Developer Challenge - Reverse A Stack.exe
+C:\Repos\Developer Challenge - Reverse A Stack\obj\Debug\Developer Challenge - Reverse A Stack.pdb
